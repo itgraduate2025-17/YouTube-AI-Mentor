@@ -1,0 +1,8 @@
+gradio
+yt-dlp
+openai-whisper
+faiss-cpu
+sentence-transformers
+torch
+groq
+numpy
